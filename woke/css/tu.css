@@ -29,11 +29,14 @@ header{
     font-size: 0.34rem;
     color: #fff;
 }
-section{
-    margin: 0 .15rem;
+div{
+    margin: 0;
 }
 .text1{
+    line-height: 30px;
     font-size: 14px;
+    padding: 0 75px 0 8px;
+    border-top: 0;
 }
 img{
     width: 100%;
